@@ -89,14 +89,17 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0102-binary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0102-binary-tree-level-order-traversal) |
 ## Two Pointers
 |  |
@@ -106,4 +109,8 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
