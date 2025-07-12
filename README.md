@@ -72,6 +72,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0014-longest-common-prefix) |
+| [0055-jump-game](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0055-jump-game) |
 | [0238-product-of-array-except-self](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
@@ -115,4 +116,12 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0101-symmetric-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
