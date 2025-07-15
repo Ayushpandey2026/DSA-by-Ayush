@@ -95,6 +95,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0543-diameter-of-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +125,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0101-symmetric-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0543-diameter-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
