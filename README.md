@@ -74,6 +74,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0014-longest-common-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0055-jump-game) |
 | [0238-product-of-array-except-self](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -146,4 +147,12 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
