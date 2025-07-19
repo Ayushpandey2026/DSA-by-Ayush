@@ -98,6 +98,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0112-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0199-binary-tree-right-side-view) |
+| [0437-path-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -115,6 +116,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0112-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0199-binary-tree-right-side-view) |
+| [0437-path-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0543-diameter-of-binary-tree) |
 ## Two Pointers
 |  |
@@ -133,6 +135,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0112-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0199-binary-tree-right-side-view) |
+| [0437-path-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0543-diameter-of-binary-tree) |
 ## Dynamic Programming
 |  |
