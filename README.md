@@ -73,6 +73,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0055-jump-game) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0238-product-of-array-except-self](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
 ## Prefix Sum
@@ -94,6 +95,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0113-path-sum-ii) |
@@ -112,6 +114,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0113-path-sum-ii) |
@@ -165,4 +168,12 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0113-path-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
