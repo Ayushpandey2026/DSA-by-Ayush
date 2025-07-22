@@ -103,6 +103,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0437-path-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0437-path-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0975-range-sum-of-bst) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +144,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0199-binary-tree-right-side-view](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0975-range-sum-of-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,4 +185,5 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
