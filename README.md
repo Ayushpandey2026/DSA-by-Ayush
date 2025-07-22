@@ -102,6 +102,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0199-binary-tree-right-side-view](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0199-binary-tree-right-side-view](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0783-search-in-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,4 +178,8 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
