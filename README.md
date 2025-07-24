@@ -93,6 +93,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -116,6 +117,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -141,6 +143,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0112-path-sum) |
@@ -189,6 +192,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0784-insert-into-a-binary-search-tree) |
