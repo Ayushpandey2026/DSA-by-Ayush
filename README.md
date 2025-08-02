@@ -123,6 +123,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0199-binary-tree-right-side-view) |
+| [0871-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0871-keys-and-rooms) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -171,6 +172,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0543-diameter-of-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -234,4 +236,8 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
