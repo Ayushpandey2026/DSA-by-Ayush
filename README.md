@@ -125,6 +125,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0112-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -176,6 +177,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -244,12 +246,14 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
