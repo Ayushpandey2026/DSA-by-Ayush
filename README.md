@@ -75,6 +75,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0055-jump-game](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -123,6 +124,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
 | [0871-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -169,6 +171,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0113-path-sum-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0437-path-sum-iii) |
@@ -246,5 +249,10 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2121-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
