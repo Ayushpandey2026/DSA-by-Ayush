@@ -86,6 +86,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0125-valid-palindrome) |
@@ -201,6 +202,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0013-roman-to-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sorting
 |  |
@@ -217,6 +219,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Divide and Conquer
 |  |
