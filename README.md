@@ -73,6 +73,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0055-jump-game) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
@@ -159,6 +160,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
