@@ -72,6 +72,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0049-group-anagrams) |
@@ -240,6 +241,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Divide and Conquer
@@ -286,6 +288,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
 ## Recursion
