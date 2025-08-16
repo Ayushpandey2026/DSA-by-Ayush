@@ -216,6 +216,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0045-jump-game-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1448-maximum-69-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1448-maximum-69-number) |
 ## Linked List
 |  |
 | ------- |
@@ -231,6 +232,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1448-maximum-69-number) |
 ## Sorting
 |  |
 | ------- |
