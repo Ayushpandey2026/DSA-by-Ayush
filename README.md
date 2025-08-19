@@ -101,6 +101,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0049-group-anagrams](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Trie
@@ -243,6 +244,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
 ## Backtracking
 |  |
 | ------- |
@@ -258,6 +260,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
