@@ -84,6 +84,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
@@ -264,6 +265,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0049-group-anagrams](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0242-valid-anagram) |
@@ -305,6 +307,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0801-is-graph-bipartite) |
