@@ -73,6 +73,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0001-two-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0048-rotate-image) |
@@ -180,6 +181,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0125-valid-palindrome) |
