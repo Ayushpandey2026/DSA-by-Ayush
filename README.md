@@ -87,6 +87,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0238-product-of-array-except-self) |
@@ -344,6 +345,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
