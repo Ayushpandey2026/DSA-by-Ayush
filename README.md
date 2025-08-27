@@ -82,6 +82,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0053-maximum-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
