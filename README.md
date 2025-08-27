@@ -86,6 +86,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0137-single-number-ii) |
@@ -224,6 +225,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0045-jump-game-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0747-min-cost-climbing-stairs) |
