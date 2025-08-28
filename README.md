@@ -252,6 +252,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1448-maximum-69-number) |
@@ -358,4 +359,5 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0231-power-of-two](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
