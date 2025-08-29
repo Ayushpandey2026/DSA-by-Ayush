@@ -120,6 +120,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0242-valid-anagram](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
+| [1078-remove-outermost-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1078-remove-outermost-parentheses) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
@@ -321,6 +322,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
