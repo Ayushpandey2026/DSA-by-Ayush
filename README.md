@@ -121,6 +121,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
@@ -244,6 +245,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0055-jump-game](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1448-maximum-69-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -261,6 +263,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
