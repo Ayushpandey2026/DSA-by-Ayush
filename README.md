@@ -122,6 +122,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0242-valid-anagram](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -283,12 +284,14 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0229-majority-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 ## Counting Sort
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Backtracking
 |  |
@@ -309,6 +312,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0229-majority-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0560-subarray-sum-equals-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
@@ -382,4 +386,12 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0260-single-number-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0371-sum-of-two-integers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
