@@ -113,6 +113,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
