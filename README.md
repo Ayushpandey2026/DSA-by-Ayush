@@ -102,6 +102,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0238-product-of-array-except-self](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0792-binary-search) |
@@ -343,6 +344,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0450-delete-node-in-a-bst) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0792-binary-search) |
