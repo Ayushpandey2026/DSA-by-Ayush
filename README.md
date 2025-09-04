@@ -96,6 +96,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0128-longest-consecutive-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0238-product-of-array-except-self) |
@@ -338,6 +339,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0035-search-insert-position](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0450-delete-node-in-a-bst) |
