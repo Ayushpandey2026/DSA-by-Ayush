@@ -220,6 +220,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0125-valid-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
+| [0908-middle-of-the-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0908-middle-of-the-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -275,6 +276,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
