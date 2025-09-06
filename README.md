@@ -15,7 +15,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## 📈 Progress
 
 > 🧠 Target: 500 Problems  
-> ✅ Completed: **~250** Problems
+> ✅ Completed: **~300** Problems
 
 
 ---
