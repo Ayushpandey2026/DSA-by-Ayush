@@ -283,6 +283,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -412,6 +413,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
