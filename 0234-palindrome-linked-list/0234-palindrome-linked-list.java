@@ -11,26 +11,21 @@ class Solution {
         }
         return prev;
     }
-    public ListNode cloneList(ListNode node){
-        if(node==null) return null;
-        ListNode newhead = new ListNode(node.val);
-        ListNode currnew = newhead;
-        ListNode currold = node.next;
-        while(currold!=null){
-            currnew.next = new ListNode(currold.val);
-            currnew =currnew.next;
-            currold=currold.next;
-        }
-        return newhead;
-    }
     public boolean isPalindrome(ListNode head) {
-        ListNode temp=head;
-        ListNode clone=cloneList(head);
-        ListNode t1=reverse(clone);
-        while(temp!=null && t1!=null){
-            if(temp.val!=t1.val) return false;
-            temp=temp.next;
+      if (head == null || head.next == null) return true;
+
+        ListNode slow = head, fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        ListNode t1=reverse(slow);
+        ListNode temp=head; 
+        while(t1!=null){
+            if(t1.val!=temp.val) return false;
             t1=t1.next;
+            temp=temp.next;
         }
         return true;
     }
