@@ -220,6 +220,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0125-valid-palindrome) |
@@ -286,6 +287,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0160-intersection-of-two-linked-lists) |
