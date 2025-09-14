@@ -140,6 +140,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0242-valid-anagram](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0812-rotate-string) |
@@ -359,6 +360,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0229-majority-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0966-binary-subarrays-with-sum) |
@@ -474,6 +476,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1460-number-of-substrings-containing-all-three-characters) |
