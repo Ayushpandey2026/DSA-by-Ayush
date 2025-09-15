@@ -132,6 +132,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0008-string-to-integer-atoi](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0049-group-anagrams) |
@@ -405,6 +406,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0957-minimum-add-to-make-parentheses-valid) |
