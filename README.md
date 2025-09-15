@@ -293,6 +293,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -370,6 +371,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -460,6 +462,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -480,4 +483,8 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
