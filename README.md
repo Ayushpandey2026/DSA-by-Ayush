@@ -122,6 +122,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2227-sum-of-subarray-ranges](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2227-sum-of-subarray-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -425,6 +426,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -432,6 +434,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0503-next-greater-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2227-sum-of-subarray-ranges](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2227-sum-of-subarray-ranges) |
 ## Graph
 |  |
 | ------- |
