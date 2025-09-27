@@ -434,6 +434,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0496-next-greater-element-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -449,6 +450,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0402-remove-k-digits](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2227-sum-of-subarray-ranges) |
@@ -532,6 +534,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -546,4 +549,8 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
