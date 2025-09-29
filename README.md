@@ -319,6 +319,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -381,6 +382,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0966-binary-subarrays-with-sum) |
@@ -537,6 +539,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0146-lru-cache](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -560,4 +563,5 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
