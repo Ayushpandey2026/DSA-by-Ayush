@@ -142,6 +142,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0013-roman-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0049-group-anagrams) |
@@ -282,6 +283,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0053-maximum-subarray) |
@@ -361,6 +363,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0113-path-sum-ii) |
 ## Hash Table
 |  |
