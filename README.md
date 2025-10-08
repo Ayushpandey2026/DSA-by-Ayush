@@ -87,6 +87,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0046-permutations](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0056-merge-intervals) |
@@ -370,6 +371,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0113-path-sum-ii) |
