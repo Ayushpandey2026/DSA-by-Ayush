@@ -82,6 +82,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0046-permutations) |
@@ -370,6 +371,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0077-combinations) |
@@ -381,6 +383,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0001-two-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -492,6 +495,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0085-maximal-rectangle) |
