@@ -112,6 +112,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
+| [0216-combination-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0239-sliding-window-maximum) |
@@ -381,6 +382,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0077-combinations](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0216-combination-sum-iii) |
 ## Hash Table
 |  |
 | ------- |
