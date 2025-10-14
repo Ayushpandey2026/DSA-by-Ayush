@@ -102,6 +102,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0118-pascals-triangle) |
@@ -381,6 +382,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0051-n-queens](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0216-combination-sum-iii) |
 ## Hash Table
@@ -525,6 +527,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0260-single-number-iii) |
