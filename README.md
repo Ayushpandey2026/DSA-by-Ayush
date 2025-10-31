@@ -160,6 +160,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0131-palindrome-partitioning](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0282-expression-add-operators) |
 | [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0402-remove-k-digits) |
@@ -347,6 +348,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0048-rotate-image](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
@@ -390,6 +392,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0113-path-sum-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0282-expression-add-operators) |
 ## Hash Table
 |  |
 | ------- |
