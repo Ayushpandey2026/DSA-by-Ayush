@@ -302,6 +302,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0045-jump-game-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0118-pascals-triangle) |
@@ -349,6 +350,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0002-add-two-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0231-power-of-two) |
@@ -609,4 +611,8 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0146-lru-cache](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0460-lfu-cache) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
