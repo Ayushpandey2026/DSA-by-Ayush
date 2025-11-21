@@ -216,6 +216,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0112-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0871-keys-and-rooms) |
@@ -315,6 +316,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0131-palindrome-partitioning](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0943-sum-of-subarray-minimums) |
@@ -359,6 +361,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0070-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0371-sum-of-two-integers) |
