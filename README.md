@@ -318,6 +318,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0198-house-robber](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0509-fibonacci-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
@@ -365,6 +366,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0282-expression-add-operators](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0371-sum-of-two-integers) |
+| [0509-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1448-maximum-69-number) |
@@ -542,12 +544,14 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0231-power-of-two](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
