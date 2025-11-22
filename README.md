@@ -150,6 +150,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0013-roman-to-integer) |
@@ -413,6 +414,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0036-valid-sudoku) |
@@ -584,6 +586,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0966-binary-subarrays-with-sum) |
