@@ -123,6 +123,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0260-single-number-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0540-single-element-in-a-sorted-array) |
@@ -323,6 +324,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0279-perfect-squares](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0509-fibonacci-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0943-sum-of-subarray-minimums) |
@@ -416,6 +418,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0131-palindrome-partitioning](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
