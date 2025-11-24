@@ -1,15 +1,15 @@
 class Solution {
      private  boolean subset(int i, int[] arr, int target, int[][] dp) {
-        if (i == arr.length) {
+        if (i < 0) {
            if (target == 0) return true;
         else return false;
         }
         if (dp[i][target] != -1) return (dp[i][target] == 1);
         boolean ans = false;
-        boolean skip = subset(i + 1, arr, target, dp);
+        boolean skip = subset(i - 1, arr, target, dp);
         if (target - arr[i] < 0) ans = skip;
         else {
-            boolean pick = subset(i + 1, arr, target - arr[i], dp);
+            boolean pick = subset(i - 1, arr, target - arr[i], dp);
             ans = pick || skip;
         }
             if (ans) dp[i][target] = 1;
@@ -18,7 +18,7 @@ class Solution {
 
     }
     public boolean canPartition(int[] nums) {
-        int sum =0;
+        int sum =0; int n =nums.length;
         for(int ele  :nums) sum+=ele;
         if(sum%2!=0) return false;
 
@@ -29,6 +29,6 @@ class Solution {
                 dp[i][j]=-1;
             }
     }
-    return subset(0,nums,target,dp);
+    return subset(n-1,nums,target,dp);
     }
 }
