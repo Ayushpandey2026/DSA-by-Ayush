@@ -122,6 +122,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0239-sliding-window-maximum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
+| [0322-coin-change](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0496-next-greater-element-i) |
@@ -222,6 +223,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0199-binary-tree-right-side-view](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0871-keys-and-rooms) |
@@ -322,6 +324,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0152-maximum-product-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0494-target-sum) |
