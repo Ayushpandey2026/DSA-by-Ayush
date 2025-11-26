@@ -166,6 +166,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0205-isomorphic-strings) |
@@ -320,6 +321,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0063-unique-paths-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
