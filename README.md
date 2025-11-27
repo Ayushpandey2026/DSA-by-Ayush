@@ -183,6 +183,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0812-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1078-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -343,6 +344,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0747-min-cost-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
+| [1092-shortest-common-supersequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
