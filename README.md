@@ -124,6 +124,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0496-next-greater-element-i) |
@@ -344,6 +345,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0279-perfect-squares](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0494-target-sum) |
@@ -423,6 +425,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0229-majority-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
+| [0354-russian-doll-envelopes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0354-russian-doll-envelopes) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 ## Counting Sort
 |  |
@@ -504,6 +507,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0354-russian-doll-envelopes) |
 | [0450-delete-node-in-a-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0783-search-in-a-binary-search-tree) |
