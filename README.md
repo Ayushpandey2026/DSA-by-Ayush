@@ -129,6 +129,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0494-target-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0735-asteroid-collision) |
@@ -351,6 +352,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0494-target-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0747-min-cost-climbing-stairs) |
