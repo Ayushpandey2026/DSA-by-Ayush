@@ -126,6 +126,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0322-coin-change](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0503-next-greater-element-ii) |
@@ -288,6 +289,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -371,6 +373,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0055-jump-game](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1448-maximum-69-number) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -429,6 +432,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0354-russian-doll-envelopes) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0455-assign-cookies) |
 ## Counting Sort
 |  |
 | ------- |
