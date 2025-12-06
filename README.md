@@ -142,6 +142,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1646-kth-missing-positive-number) |
@@ -365,6 +366,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1092-shortest-common-supersequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Greedy
@@ -439,6 +441,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0354-russian-doll-envelopes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0354-russian-doll-envelopes) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0455-assign-cookies) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Counting Sort
 |  |
 | ------- |
