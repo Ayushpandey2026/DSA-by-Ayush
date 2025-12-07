@@ -134,6 +134,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0518-coin-change-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0792-binary-search) |
@@ -295,6 +296,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -445,6 +447,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0354-russian-doll-envelopes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0354-russian-doll-envelopes) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Counting Sort
@@ -533,6 +536,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0354-russian-doll-envelopes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0354-russian-doll-envelopes) |
 | [0450-delete-node-in-a-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0658-find-k-closest-elements) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0792-binary-search) |
@@ -642,6 +646,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
@@ -661,6 +666,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1460-number-of-substrings-containing-all-three-characters) |
