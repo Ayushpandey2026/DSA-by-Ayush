@@ -4,11 +4,9 @@ class Solution {
         // int[] arr = new int[nums.length];
         for(int val : nums){
             pq.add(val);
+            if(pq.size()  > k) pq.remove();
         }
 
-        for(int i=0;i<nums.length - k;i++){
-            pq.remove();
-        }
         return pq.peek();
 
     }
