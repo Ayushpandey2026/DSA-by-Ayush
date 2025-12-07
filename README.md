@@ -140,6 +140,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0907-koko-eating-bananas](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0966-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -421,6 +422,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1448-maximum-69-number) |
@@ -443,6 +445,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0354-russian-doll-envelopes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0354-russian-doll-envelopes) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0455-assign-cookies) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Counting Sort
 |  |
@@ -510,6 +513,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -638,6 +642,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -704,4 +709,9 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
