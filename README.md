@@ -248,6 +248,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0801-is-graph-bipartite](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0801-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0841-keys-and-rooms) |
 | [0871-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0871-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -332,6 +333,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0871-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Dynamic Programming
@@ -600,6 +602,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0801-is-graph-bipartite](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0801-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0841-keys-and-rooms) |
 | [0871-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0871-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -608,6 +611,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0801-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
