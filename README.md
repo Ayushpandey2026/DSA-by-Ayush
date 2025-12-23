@@ -154,6 +154,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1646-kth-missing-positive-number) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2227-sum-of-subarray-ranges](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2227-sum-of-subarray-ranges) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
