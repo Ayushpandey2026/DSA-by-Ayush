@@ -114,6 +114,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0152-maximum-product-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0215-kth-largest-element-in-an-array) |
@@ -295,6 +296,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0141-linked-list-cycle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
@@ -423,6 +425,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0062-unique-paths](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0279-perfect-squares) |
