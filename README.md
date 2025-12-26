@@ -167,6 +167,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1046-max-consecutive-ones-iii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2483-minimum-penalty-for-a-shop) |
 ## String
 |  |
 | ------- |
@@ -208,6 +209,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Trie
 |  |
 | ------- |
