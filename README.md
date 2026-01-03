@@ -125,6 +125,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0238-product-of-array-except-self](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0300-longest-increasing-subsequence) |
@@ -437,6 +438,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0189-rotate-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
@@ -461,6 +463,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0354-russian-doll-envelopes) |
@@ -517,6 +520,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0205-isomorphic-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0424-longest-repeating-character-replacement) |
@@ -554,6 +558,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0162-find-peak-element](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0354-russian-doll-envelopes) |
 | [0450-delete-node-in-a-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0450-delete-node-in-a-bst) |
@@ -663,6 +668,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0137-single-number-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0371-sum-of-two-integers) |
 ## Heap (Priority Queue)
