@@ -126,6 +126,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0239-sliding-window-maximum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0347-top-k-frequent-elements) |
@@ -306,6 +307,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0189-rotate-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0647-palindromic-substrings) |
