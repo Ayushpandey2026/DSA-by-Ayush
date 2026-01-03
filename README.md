@@ -112,6 +112,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0118-pascals-triangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -665,6 +666,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0078-subsets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0260-single-number-iii) |
