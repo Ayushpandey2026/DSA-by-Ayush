@@ -8,7 +8,8 @@ class Solution {
             r--;
         }
     }
-    public void rotate(int[] nums, int k) {int[] arr = new int[nums.length];
+    public void rotate(int[] nums, int k) {
+        int[] arr = new int[nums.length];
         int a=0; int n = nums.length;
         k=k%n;
 
