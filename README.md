@@ -163,6 +163,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2227-sum-of-subarray-ranges](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2227-sum-of-subarray-ranges) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -318,6 +319,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0658-find-k-closest-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0908-middle-of-the-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
@@ -739,6 +741,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0735-asteroid-collision) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Monotonic Queue
 |  |
 | ------- |
