@@ -117,6 +117,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0152-maximum-product-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
@@ -461,6 +462,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0056-merge-intervals](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0242-valid-anagram) |
@@ -476,6 +478,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0347-top-k-frequent-elements) |
@@ -517,6 +520,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0141-linked-list-cycle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0229-majority-element-ii) |
@@ -541,6 +545,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
