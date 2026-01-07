@@ -4,26 +4,25 @@ class Solution {
         boolean[] vis = new boolean[n];
         vis[0] =true;
         bfs(0,vis,adj);
-       for(boolean ele  :vis){
-        if(ele==false) return false;
-       }
-       return true;
+        for(boolean ele : vis){
+            if(ele==false) return false;
+        }
+        return true;
     }
     public void bfs(int start,boolean[] vis,List<List<Integer>> adj){
+    
         int n=adj.size();
         Queue<Integer> q= new LinkedList<>();
         q.add(start);
         while(q.size()>0){
-            int front = q.remove();
-            for(int ele : adj.get(front)){
+          int front = q.remove();
+          for(int ele : adj.get(front)){
                 if(!vis[ele]){
-                vis[ele]=true;
-                q.add(ele);
+                    vis[ele]=true;
+                    q.add(ele);
                 }
+             }
             }
-        }
-
-
-
     }
+        
 }
