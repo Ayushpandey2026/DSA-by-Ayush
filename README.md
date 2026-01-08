@@ -167,6 +167,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2227-sum-of-subarray-ranges](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2227-sum-of-subarray-ranges) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -685,6 +686,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0268-missing-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0371-sum-of-two-integers) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
