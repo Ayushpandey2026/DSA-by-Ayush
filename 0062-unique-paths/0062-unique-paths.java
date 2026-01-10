@@ -1,19 +1,19 @@
 class Solution {
+    public int paths(int m, int n, int i, int j,int[][] dp){
+        // if(i>=m || j>=n) return 0;
+        if(i==m-1 || j==n-1) return 1;
+        if(dp[i][j]!=-1) return dp[i][j];
+      int rw = paths(m,n,i+1,j,dp);
+       int lw =  paths(m,n,i,j+1,dp);
+       return dp[i][j]=  rw + lw;
+    }
     public int uniquePaths(int m, int n) {
-        int[][] a = new int[2][n];
-        for(int i=0;i<n;i++){
-            a[0][i]=1;
-            a[1][i]=1;
-        }
-        for(int j=1;j<=m-1;j++){
-            for(int i=1;i<n;i++){
-                a[1][i]=a[1][i-1] + a[0][i];
+        int[][] dp = new int[m][n];
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                dp[i][j] =-1;
             }
-             for(int i=1;i<n;i++){
-                a[0][i]=a[1][i];
-            }
-
         }
-        return a[1][n-1];
+        return paths(m,n,0,0,dp); 
     }
 }
