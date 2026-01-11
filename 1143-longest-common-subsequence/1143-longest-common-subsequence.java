@@ -9,14 +9,12 @@ class Solution {
         }
     }
     public int longestCommonSubsequence(String a, String b) {
-        // calc(text1,text2,i,j);
            int m=a.length();
            int n=b.length();
            if(m==0 || n==0) return 0;
         int[][] dp =new int[m][n];
-        for(int i=0;i<dp.length;i++){
-            Arrays.fill(dp[i],-1);
-        }
-       return  calc(a,b,m-1,n-1,dp);
+        for (int[] row : dp) Arrays.fill(row, -1);
+        return calc(a, b, m-1, n-1, dp);
+
     }
 }
