@@ -445,6 +445,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0002-add-two-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0096-unique-binary-search-trees) |
@@ -668,6 +669,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0234-palindrome-linked-list) |
