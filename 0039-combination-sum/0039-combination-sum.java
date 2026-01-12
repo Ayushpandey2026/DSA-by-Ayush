@@ -1,7 +1,7 @@
 class Solution {
     private void combine(int i,int[] nums,int target,List<List<Integer>> ans,List<Integer> list,int sum){
         int n=nums.length;
-        if(i==n && sum<target) return;
+        // if(i==n && sum<target) return;
            if(i==n ){ 
             if(sum==target) ans.add(new ArrayList<>(list));
             return;
