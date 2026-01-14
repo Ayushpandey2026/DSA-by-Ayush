@@ -799,4 +799,8 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
