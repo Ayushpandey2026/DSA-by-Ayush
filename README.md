@@ -222,6 +222,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3703-remove-k-balanced-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3703-remove-k-balanced-substrings) |
@@ -430,6 +431,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1448-maximum-69-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1448-maximum-69-number) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Linked List
 |  |
 | ------- |
@@ -809,6 +811,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0204-count-primes) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Number Theory
 |  |
 | ------- |
