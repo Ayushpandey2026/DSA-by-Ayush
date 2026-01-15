@@ -122,6 +122,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0189-rotate-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0216-combination-sum-iii) |
@@ -463,6 +464,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0096-unique-binary-search-trees](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0279-perfect-squares) |
@@ -803,4 +805,12 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0176-second-highest-salary) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
