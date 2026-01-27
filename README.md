@@ -158,6 +158,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0966-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0983-minimum-cost-for-tickets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0983-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1046-last-stone-weight) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -429,6 +430,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0943-sum-of-subarray-minimums) |
+| [0983-minimum-cost-for-tickets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
 | [1092-shortest-common-supersequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1143-longest-common-subsequence) |
