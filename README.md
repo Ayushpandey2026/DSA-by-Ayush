@@ -110,6 +110,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0128-longest-consecutive-sequence) |
@@ -408,6 +409,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0085-maximal-rectangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0124-binary-tree-maximum-path-sum) |
