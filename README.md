@@ -155,6 +155,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0792-binary-search](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0966-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
@@ -431,6 +432,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0647-palindromic-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0747-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
@@ -722,6 +724,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0073-set-matrix-zeroes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
+| [0931-minimum-falling-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0931-minimum-falling-path-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Recursion
