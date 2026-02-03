@@ -136,6 +136,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0283-move-zeroes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0322-coin-change) |
+| [0336-palindrome-pairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0416-partition-equal-subset-sum) |
@@ -220,6 +221,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0205-isomorphic-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0282-expression-add-operators) |
+| [0336-palindrome-pairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0402-remove-k-digits) |
@@ -250,6 +252,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0014-longest-common-prefix) |
+| [0336-palindrome-pairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0336-palindrome-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -591,6 +594,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0229-majority-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0268-missing-number) |
+| [0336-palindrome-pairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0424-longest-repeating-character-replacement) |
