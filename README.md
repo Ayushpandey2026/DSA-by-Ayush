@@ -246,6 +246,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2430-maximum-deletions-on-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2430-maximum-deletions-on-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3703-remove-k-balanced-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3703-remove-k-balanced-substrings) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3714-longest-balanced-substring-ii) |
@@ -370,6 +371,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0686-repeated-string-match](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1508-longest-happy-prefix) |
+| [2430-maximum-deletions-on-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2430-maximum-deletions-on-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -448,6 +450,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2430-maximum-deletions-on-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2430-maximum-deletions-on-a-string) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Greedy
 |  |
@@ -788,11 +791,13 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1508-longest-happy-prefix) |
+| [2430-maximum-deletions-on-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2430-maximum-deletions-on-a-string) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1508-longest-happy-prefix) |
+| [2430-maximum-deletions-on-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2430-maximum-deletions-on-a-string) |
 ## Sliding Window
 |  |
 | ------- |
