@@ -244,6 +244,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2430-maximum-deletions-on-a-string) |
@@ -371,6 +372,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0686-repeated-string-match](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1508-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2430-maximum-deletions-on-a-string) |
 ## Depth-First Search
 |  |
@@ -665,6 +667,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1646-kth-missing-positive-number) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Stack
 |  |
 | ------- |
@@ -791,12 +794,14 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1508-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2430-maximum-deletions-on-a-string) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1508-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2430-maximum-deletions-on-a-string) |
 ## Sliding Window
 |  |
@@ -882,4 +887,8 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
