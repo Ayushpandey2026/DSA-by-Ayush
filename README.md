@@ -187,6 +187,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3634-minimum-removals-to-balance-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Prefix Sum
@@ -549,6 +550,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -821,6 +823,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2528-maximize-the-minimum-powered-city) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3634-minimum-removals-to-balance-array) |
 ## Merge Sort
 |  |
 | ------- |
