@@ -180,6 +180,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2227-sum-of-subarray-ranges](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2227-sum-of-subarray-ranges) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -474,6 +475,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -552,6 +554,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting Sort
 |  |
@@ -676,6 +679,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1646-kth-missing-positive-number) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Stack
