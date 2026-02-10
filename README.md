@@ -191,6 +191,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3634-minimum-removals-to-balance-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Prefix Sum
 |  |
@@ -207,6 +208,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3714-longest-balanced-substring-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -631,6 +633,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3714-longest-balanced-substring-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Divide and Conquer
 |  |
@@ -645,6 +648,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -909,4 +913,8 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2223-sum-of-scores-of-built-strings) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
