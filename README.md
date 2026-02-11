@@ -176,6 +176,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1929-concatenation-of-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
@@ -873,6 +874,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0054-spiral-matrix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3703-remove-k-balanced-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3703-remove-k-balanced-substrings) |
 ## Monotonic Queue
