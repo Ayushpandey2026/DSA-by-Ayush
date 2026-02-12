@@ -231,6 +231,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0044-wildcard-matching](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0205-isomorphic-strings) |
@@ -616,6 +617,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0037-sudoku-solver](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0138-copy-list-with-random-pointer) |
@@ -846,6 +848,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0658-find-k-closest-elements) |
