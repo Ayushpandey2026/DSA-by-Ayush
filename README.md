@@ -263,6 +263,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2430-maximum-deletions-on-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2430-maximum-deletions-on-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3703-remove-k-balanced-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3703-remove-k-balanced-substrings) |
+| [3713-longest-balanced-substring-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3714-longest-balanced-substring-ii) |
 ## Trie
 |  |
@@ -579,6 +580,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3713-longest-balanced-substring-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3713-longest-balanced-substring-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -639,6 +641,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3713-longest-balanced-substring-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3721-longest-balanced-subarray-ii) |
@@ -914,6 +917,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0204-count-primes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0204-count-primes) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3713-longest-balanced-substring-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
 |  |
 | ------- |
