@@ -646,6 +646,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1172-dinner-plate-stacks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1172-dinner-plate-stacks) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1590-make-sum-divisible-by-p) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -732,6 +733,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1078-remove-outermost-parentheses) |
+| [1172-dinner-plate-stacks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1172-dinner-plate-stacks) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2227-sum-of-subarray-ranges) |
@@ -831,6 +833,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0658-find-k-closest-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1046-last-stone-weight) |
+| [1172-dinner-plate-stacks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1172-dinner-plate-stacks) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -881,6 +884,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0232-implement-queue-using-stacks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0937-online-stock-span) |
+| [1172-dinner-plate-stacks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1172-dinner-plate-stacks) |
 ## Queue
 |  |
 | ------- |
