@@ -154,6 +154,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0735-asteroid-collision](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0792-binary-search) |
+| [0840-magic-squares-in-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0840-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0931-minimum-falling-path-sum) |
@@ -537,6 +538,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0509-fibonacci-number) |
+| [0840-magic-squares-in-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -638,6 +640,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0460-lfu-cache](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0560-subarray-sum-equals-k) |
+| [0840-magic-squares-in-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0840-magic-squares-in-grid) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -774,6 +777,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0073-set-matrix-zeroes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
+| [0840-magic-squares-in-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0840-magic-squares-in-grid) |
 | [0931-minimum-falling-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0931-minimum-falling-path-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2304-minimum-path-cost-in-a-grid) |
