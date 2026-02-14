@@ -464,6 +464,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0647-palindromic-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0747-min-cost-climbing-stairs) |
+| [0799-champagne-tower](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0799-champagne-tower) |
 | [0931-minimum-falling-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0983-minimum-cost-for-tickets) |
