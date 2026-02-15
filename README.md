@@ -233,6 +233,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0038-count-and-say](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0125-valid-palindrome) |
@@ -530,6 +531,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0050-powx-n](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0189-rotate-array) |
@@ -814,6 +816,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0136-single-number) |
@@ -899,6 +902,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1929-concatenation-of-array) |
