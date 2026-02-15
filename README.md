@@ -236,6 +236,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0067-add-binary](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0205-isomorphic-strings) |
@@ -441,6 +442,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0070-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0120-triangle) |
