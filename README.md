@@ -847,6 +847,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0805-split-array-with-same-average](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0805-split-array-with-same-average) |
 | [0996-number-of-squareful-arrays](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0996-number-of-squareful-arrays) |
