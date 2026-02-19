@@ -156,6 +156,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0792-binary-search](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0792-binary-search) |
 | [0805-split-array-with-same-average](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0805-split-array-with-same-average) |
 | [0840-magic-squares-in-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0840-magic-squares-in-grid) |
+| [0890-find-and-replace-pattern](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0890-find-and-replace-pattern) |
 | [0907-koko-eating-bananas](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0931-minimum-falling-path-sum) |
@@ -261,6 +262,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0696-count-binary-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0812-rotate-string) |
+| [0890-find-and-replace-pattern](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0890-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1078-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1092-shortest-common-supersequence) |
@@ -670,6 +672,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0560-subarray-sum-equals-k) |
 | [0805-split-array-with-same-average](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0805-split-array-with-same-average) |
 | [0840-magic-squares-in-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0840-magic-squares-in-grid) |
+| [0890-find-and-replace-pattern](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0890-find-and-replace-pattern) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0974-subarray-sums-divisible-by-k) |
