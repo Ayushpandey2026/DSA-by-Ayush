@@ -259,6 +259,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0647-palindromic-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1078-remove-outermost-parentheses) |
@@ -402,6 +403,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1508-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2223-sum-of-scores-of-built-strings) |
