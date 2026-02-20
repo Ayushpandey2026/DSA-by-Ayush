@@ -195,6 +195,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2305-fair-distribution-of-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2305-fair-distribution-of-cookies) |
 | [2401-longest-nice-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2401-longest-nice-subarray) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2532-time-to-cross-a-bridge](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2532-time-to-cross-a-bridge) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -881,6 +882,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1046-last-stone-weight) |
 | [1172-dinner-plate-stacks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1172-dinner-plate-stacks) |
+| [2532-time-to-cross-a-bridge](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2532-time-to-cross-a-bridge) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -949,6 +951,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2532-time-to-cross-a-bridge](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2532-time-to-cross-a-bridge) |
 | [3703-remove-k-balanced-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3703-remove-k-balanced-substrings) |
 ## Monotonic Queue
 |  |
