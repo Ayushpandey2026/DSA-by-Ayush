@@ -260,6 +260,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0647-palindromic-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0812-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0890-find-and-replace-pattern) |
@@ -593,6 +594,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0658-find-k-closest-elements) |
+| [0761-special-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0761-special-binary-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1200-minimum-absolute-difference) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -703,6 +705,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0190-reverse-bits](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0761-special-binary-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3721-longest-balanced-subarray-ii) |
