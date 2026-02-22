@@ -189,6 +189,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2227-sum-of-subarray-ranges](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2227-sum-of-subarray-ranges) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -643,6 +644,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0494-target-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0996-number-of-squareful-arrays](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0996-number-of-squareful-arrays) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2305-fair-distribution-of-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2305-fair-distribution-of-cookies) |
 ## Hash Table
 |  |
@@ -873,6 +875,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0868-binary-gap](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0868-binary-gap) |
 | [0996-number-of-squareful-arrays](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0996-number-of-squareful-arrays) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2305-fair-distribution-of-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2305-fair-distribution-of-cookies) |
 | [2401-longest-nice-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2401-longest-nice-subarray) |
 | [2429-minimize-xor](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2429-minimize-xor) |
@@ -996,6 +999,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0204-count-primes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0204-count-primes) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3713-longest-balanced-substring-i) |
