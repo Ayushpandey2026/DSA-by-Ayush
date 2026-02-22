@@ -196,6 +196,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2305-fair-distribution-of-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2305-fair-distribution-of-cookies) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2381-shifting-letters-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2381-shifting-letters-ii) |
 | [2401-longest-nice-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2401-longest-nice-subarray) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2532-time-to-cross-a-bridge](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2532-time-to-cross-a-bridge) |
@@ -220,6 +221,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1590-make-sum-divisible-by-p](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1895-largest-magic-square) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
+| [2381-shifting-letters-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3714-longest-balanced-substring-ii) |
@@ -284,6 +286,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2223-sum-of-scores-of-built-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2381-shifting-letters-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2381-shifting-letters-ii) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2430-maximum-deletions-on-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
