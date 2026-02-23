@@ -116,6 +116,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0128-longest-consecutive-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0162-find-peak-element) |
@@ -565,6 +566,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0067-add-binary](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0204-count-primes) |
@@ -673,6 +675,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0138-copy-list-with-random-pointer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0202-happy-number) |
@@ -1004,6 +1007,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0149-max-points-on-a-line) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 ## Database
 |  |
