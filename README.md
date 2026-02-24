@@ -328,6 +328,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0783-search-in-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0975-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -375,6 +376,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0783-search-in-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0975-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -447,6 +449,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0841-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0841-keys-and-rooms) |
 | [0871-keys-and-rooms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0975-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2121-find-if-path-exists-in-graph) |
