@@ -194,6 +194,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2151-maximum-good-people-based-on-statements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2227-sum-of-subarray-ranges](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2227-sum-of-subarray-ranges) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2305-fair-distribution-of-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2305-fair-distribution-of-cookies) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2332-the-latest-time-to-catch-a-bus) |
@@ -591,6 +592,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1448-maximum-69-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2050-count-good-numbers) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3404-count-special-subsequences](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3404-count-special-subsequences) |
 ## Sorting
@@ -620,6 +622,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting Sort
@@ -1015,6 +1018,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0149-max-points-on-a-line) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Database
 |  |
 | ------- |
@@ -1033,6 +1037,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0204-count-primes) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Bitmask DP
 |  |
 | ------- |
