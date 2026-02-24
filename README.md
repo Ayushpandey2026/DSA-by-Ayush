@@ -204,6 +204,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3404-count-special-subsequences](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3404-count-special-subsequences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3634-minimum-removals-to-balance-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3719-longest-balanced-subarray-i) |
@@ -588,6 +589,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2050-count-good-numbers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3404-count-special-subsequences](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3404-count-special-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -708,6 +710,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3404-count-special-subsequences](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3404-count-special-subsequences) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3719-longest-balanced-subarray-i) |
@@ -1021,6 +1024,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2151-maximum-good-people-based-on-statements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
+| [3404-count-special-subsequences](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3404-count-special-subsequences) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
 |  |
