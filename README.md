@@ -271,6 +271,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0647-palindromic-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0696-count-binary-substrings) |
+| [0726-number-of-atoms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0726-number-of-atoms) |
 | [0761-special-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0812-rotate-string) |
@@ -617,6 +618,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0658-find-k-closest-elements) |
+| [0726-number-of-atoms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0726-number-of-atoms) |
 | [0761-special-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0761-special-binary-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1200-minimum-absolute-difference) |
@@ -704,6 +706,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0460-lfu-cache](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0560-subarray-sum-equals-k) |
+| [0726-number-of-atoms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0726-number-of-atoms) |
 | [0805-split-array-with-same-average](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0805-split-array-with-same-average) |
 | [0840-magic-squares-in-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0840-magic-squares-in-grid) |
 | [0890-find-and-replace-pattern](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0890-find-and-replace-pattern) |
@@ -798,6 +801,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0402-remove-k-digits](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0503-next-greater-element-ii) |
+| [0726-number-of-atoms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0943-sum-of-subarray-minimums) |
