@@ -272,6 +272,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0686-repeated-string-match](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0696-count-binary-substrings) |
 | [0726-number-of-atoms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0726-number-of-atoms) |
+| [0736-parse-lisp-expression](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0736-parse-lisp-expression) |
 | [0761-special-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0812-rotate-string) |
@@ -707,6 +708,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0496-next-greater-element-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0726-number-of-atoms) |
+| [0736-parse-lisp-expression](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0736-parse-lisp-expression) |
 | [0805-split-array-with-same-average](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0805-split-array-with-same-average) |
 | [0840-magic-squares-in-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0840-magic-squares-in-grid) |
 | [0890-find-and-replace-pattern](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0890-find-and-replace-pattern) |
@@ -803,6 +805,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0503-next-greater-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0735-asteroid-collision) |
+| [0736-parse-lisp-expression](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0736-parse-lisp-expression) |
 | [0937-online-stock-span](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -875,6 +878,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0234-palindrome-linked-list](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0509-fibonacci-number) |
+| [0736-parse-lisp-expression](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0736-parse-lisp-expression) |
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2050-count-good-numbers) |
 ## Memoization
