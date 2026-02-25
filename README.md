@@ -172,6 +172,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1200-minimum-absolute-difference](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1200-minimum-absolute-difference) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -618,6 +619,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0761-special-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0761-special-binary-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -635,6 +637,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0383-ransom-note](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
@@ -898,6 +901,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0868-binary-gap](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0868-binary-gap) |
 | [0996-number-of-squareful-arrays](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0996-number-of-squareful-arrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2151-maximum-good-people-based-on-statements) |
