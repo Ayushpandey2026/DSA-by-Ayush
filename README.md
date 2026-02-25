@@ -205,6 +205,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2532-time-to-cross-a-bridge](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2532-time-to-cross-a-bridge) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3011-find-if-array-can-be-sorted](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3011-find-if-array-can-be-sorted) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3404-count-special-subsequences](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3404-count-special-subsequences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3634-minimum-removals-to-balance-array) |
@@ -626,6 +627,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [3011-find-if-array-can-be-sorted](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3011-find-if-array-can-be-sorted) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting Sort
 |  |
@@ -908,6 +910,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2305-fair-distribution-of-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2305-fair-distribution-of-cookies) |
 | [2401-longest-nice-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2401-longest-nice-subarray) |
 | [2429-minimize-xor](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2429-minimize-xor) |
+| [3011-find-if-array-can-be-sorted](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3011-find-if-array-can-be-sorted) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
