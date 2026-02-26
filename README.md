@@ -178,6 +178,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1627-graph-connectivity-with-threshold](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1627-graph-connectivity-with-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1646-kth-missing-positive-number) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -599,6 +600,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1448-maximum-69-number) |
+| [1627-graph-connectivity-with-threshold](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1627-graph-connectivity-with-threshold) |
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2050-count-good-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -1061,6 +1063,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0204-count-primes) |
+| [1627-graph-connectivity-with-threshold](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1627-graph-connectivity-with-threshold) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2709-greatest-common-divisor-traversal) |
 ## Bitmask DP
@@ -1083,5 +1086,6 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Union-Find
 |  |
 | ------- |
+| [1627-graph-connectivity-with-threshold](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1627-graph-connectivity-with-threshold) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2709-greatest-common-divisor-traversal) |
 <!---LeetCode Topics End-->
