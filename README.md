@@ -287,6 +287,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1508-longest-happy-prefix) |
@@ -655,6 +656,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
