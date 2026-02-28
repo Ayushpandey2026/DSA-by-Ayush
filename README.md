@@ -210,6 +210,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3011-find-if-array-can-be-sorted) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3404-count-special-subsequences](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3404-count-special-subsequences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3634-minimum-removals-to-balance-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -936,6 +937,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2401-longest-nice-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2401-longest-nice-subarray) |
 | [2429-minimize-xor](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2429-minimize-xor) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3011-find-if-array-can-be-sorted) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
@@ -1065,6 +1067,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2151-maximum-good-people-based-on-statements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3404-count-special-subsequences](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3404-count-special-subsequences) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
