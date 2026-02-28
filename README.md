@@ -208,6 +208,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2709-greatest-common-divisor-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2709-greatest-common-divisor-traversal) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3011-find-if-array-can-be-sorted) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
@@ -527,6 +528,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2305-fair-distribution-of-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2305-fair-distribution-of-cookies) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2430-maximum-deletions-on-a-string) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 ## Greedy
 |  |
@@ -1096,6 +1098,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Segment Tree
 |  |
 | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3721-longest-balanced-subarray-ii) |
 ## Union-Find
@@ -1108,4 +1111,8 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
