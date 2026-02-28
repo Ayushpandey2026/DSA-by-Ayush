@@ -300,6 +300,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2272-substring-with-largest-variance](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2272-substring-with-largest-variance) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2381-shifting-letters-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2381-shifting-letters-ii) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2430-maximum-deletions-on-a-string) |
@@ -524,6 +525,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2272-substring-with-largest-variance](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2272-substring-with-largest-variance) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2305-fair-distribution-of-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2305-fair-distribution-of-cookies) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2430-maximum-deletions-on-a-string) |
@@ -745,6 +747,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2272-substring-with-largest-variance](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2272-substring-with-largest-variance) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3404-count-special-subsequences](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3404-count-special-subsequences) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3713-longest-balanced-substring-i) |
@@ -1072,6 +1075,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2272-substring-with-largest-variance](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2272-substring-with-largest-variance) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3404-count-special-subsequences](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3404-count-special-subsequences) |
