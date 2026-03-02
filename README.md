@@ -174,6 +174,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1590-make-sum-divisible-by-p) |
@@ -546,6 +547,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0455-assign-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1448-maximum-69-number) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -889,6 +891,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
 | [0840-magic-squares-in-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0840-magic-squares-in-grid) |
 | [0931-minimum-falling-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0931-minimum-falling-path-sum) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1895-largest-magic-square](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1895-largest-magic-square) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2304-minimum-path-cost-in-a-grid) |
