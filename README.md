@@ -285,6 +285,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0812-rotate-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0812-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0890-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1078-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1143-longest-common-subsequence) |
@@ -840,6 +841,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0937-online-stock-span](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1078-remove-outermost-parentheses) |
 | [1172-dinner-plate-stacks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1172-dinner-plate-stacks) |
