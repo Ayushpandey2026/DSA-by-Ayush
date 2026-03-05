@@ -301,6 +301,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1910-remove-all-occurrences-of-a-substring) |
