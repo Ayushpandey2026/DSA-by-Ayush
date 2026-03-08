@@ -190,6 +190,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1895-largest-magic-square](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1895-largest-magic-square) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1929-concatenation-of-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1980-find-unique-binary-string) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
@@ -306,6 +307,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1980-find-unique-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -706,6 +708,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0996-number-of-squareful-arrays](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0996-number-of-squareful-arrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1980-find-unique-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1980-find-unique-binary-string) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2305-fair-distribution-of-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2305-fair-distribution-of-cookies) |
 ## Hash Table
@@ -758,6 +761,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1590-make-sum-divisible-by-p](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1590-make-sum-divisible-by-p) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1980-find-unique-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1980-find-unique-binary-string) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2272-substring-with-largest-variance](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2272-substring-with-largest-variance) |
