@@ -239,6 +239,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3721-longest-balanced-subarray-ii) |
@@ -544,6 +545,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 ## Greedy
 |  |
