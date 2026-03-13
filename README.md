@@ -215,6 +215,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3011-find-if-array-can-be-sorted) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3404-count-special-subsequences](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3404-count-special-subsequences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3634-minimum-removals-to-balance-array) |
@@ -574,6 +575,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2429-minimize-xor](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2429-minimize-xor) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -635,6 +637,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2709-greatest-common-divisor-traversal) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3404-count-special-subsequences](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3404-count-special-subsequences) |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -831,6 +834,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2223-sum-of-scores-of-built-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2528-maximize-the-minimum-powered-city) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Stack
 |  |
 | ------- |
@@ -987,6 +991,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1046-last-stone-weight](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1046-last-stone-weight) |
 | [1172-dinner-plate-stacks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1172-dinner-plate-stacks) |
 | [2532-time-to-cross-a-bridge](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2532-time-to-cross-a-bridge) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bucket Sort
 |  |
 | ------- |
