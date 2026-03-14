@@ -298,6 +298,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -715,6 +716,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0996-number-of-squareful-arrays](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0996-number-of-squareful-arrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1980-find-unique-binary-string) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2305-fair-distribution-of-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2305-fair-distribution-of-cookies) |
