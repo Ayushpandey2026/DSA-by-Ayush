@@ -630,6 +630,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1013-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1448-maximum-69-number) |
+| [1622-fancy-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1622-fancy-sequence) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1627-graph-connectivity-with-threshold) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
@@ -1048,6 +1049,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0460-lfu-cache](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0937-online-stock-span) |
 | [1172-dinner-plate-stacks](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1172-dinner-plate-stacks) |
+| [1622-fancy-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1622-fancy-sequence) |
 ## Queue
 |  |
 | ------- |
@@ -1137,6 +1139,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1622-fancy-sequence) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3721-longest-balanced-subarray-ii) |
