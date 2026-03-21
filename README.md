@@ -147,6 +147,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0496-next-greater-element-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0658-find-k-closest-elements) |
@@ -227,6 +228,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0930-binary-subarrays-with-sum) |
@@ -754,6 +756,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0726-number-of-atoms) |
 | [0736-parse-lisp-expression](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0736-parse-lisp-expression) |
