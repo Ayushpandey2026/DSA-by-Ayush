@@ -281,6 +281,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0686-repeated-string-match) |
@@ -437,6 +438,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0283-move-zeroes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0696-count-binary-substrings) |
@@ -624,6 +626,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0342-power-of-four](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0556-next-greater-element-iii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0805-split-array-with-same-average](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0805-split-array-with-same-average) |
 | [0840-magic-squares-in-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0840-magic-squares-in-grid) |
