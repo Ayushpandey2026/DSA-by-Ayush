@@ -5,6 +5,7 @@ class Solution {
         if(n==0) return 0;
         int[] suffix = new int[n];
         int[] prefix = new int[n];
+        
         prefix[0] = height[0];
         for(int i=1;i<n;i++){
             prefix[i] = Math.max(prefix[i-1],height[i]);
