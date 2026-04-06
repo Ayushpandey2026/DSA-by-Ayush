@@ -23,6 +23,7 @@ class Solution {
                     st.push(curr);
                 }
         }
+        
         int[] res= new int[st.size()];
         for(int i =res.length-1;i>=0; i--){
             res[i] = st.pop();
