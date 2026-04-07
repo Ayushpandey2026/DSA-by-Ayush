@@ -313,6 +313,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -643,6 +644,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1622-fancy-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1622-fancy-sequence) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1627-graph-connectivity-with-threshold) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2050-count-good-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2139-minimum-moves-to-reach-target-score) |
