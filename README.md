@@ -128,6 +128,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0213-house-robber-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0239-sliding-window-maximum) |
@@ -520,6 +521,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0152-maximum-product-subarray](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0322-coin-change) |
@@ -930,6 +932,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [0073-set-matrix-zeroes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0221-maximal-square) |
 | [0840-magic-squares-in-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0840-magic-squares-in-grid) |
 | [0931-minimum-falling-path-sum](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0931-minimum-falling-path-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
