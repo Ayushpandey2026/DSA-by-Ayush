@@ -1,15 +1,16 @@
 class Solution {
     List<String> list = new ArrayList<>();
-    private List<String> pp(int op, int cl, int n , String s){
-        if(s.length()==2*n){ 
-            list.add(s);
+    private List<String> generate(String str, int op, int cl,int n){
+        if(str.length()==2*n) {
+            list.add(str);
         }
-        if(op<n) pp(op+1,cl,n,s+'(');
-        if(cl<op) pp(op,cl+1,n,s+')');
+       if(op<n) generate(str+ "(",op+1,cl,n);
+        if(cl<op) generate(str+")",op,cl+1,n);
         return list;
+
     }
     public List<String> generateParenthesis(int n) {
-       List<String> list= pp(0,0,n,"");
-        return list;
+        List<String> list =generate("",0,0,n);
+         return list;
     }
 }
