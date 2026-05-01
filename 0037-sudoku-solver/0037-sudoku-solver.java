@@ -2,7 +2,7 @@ class Solution {
     private boolean isValid(char[][] board, int i, int j, char c) {
         int n = board.length;
 
-        for (int a = 0; a < n; a++) {
+        for (int a = 0; a < 9; a++) {
             if (board[a][j] == c) return false;
             if (board[i][a] == c) return false;
         }
