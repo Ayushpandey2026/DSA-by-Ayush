@@ -1,6 +1,6 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        List<Integer> arr = new ArrayList<>(); int a=0;
+        List<Integer> arr = new ArrayList<>();
         for(int i=0;i<nums.length-1;i++){
             if(nums[i]==nums[i+1]){
                 continue;
