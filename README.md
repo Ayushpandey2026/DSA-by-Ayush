@@ -1194,4 +1194,8 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
