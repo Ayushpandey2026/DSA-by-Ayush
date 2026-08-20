@@ -322,6 +322,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1980-find-unique-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
@@ -584,6 +585,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1903-largest-odd-number-in-string) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -655,6 +657,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1627-graph-connectivity-with-threshold](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1627-graph-connectivity-with-threshold) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2050-count-good-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2139-minimum-moves-to-reach-target-score) |
