@@ -1203,4 +1203,8 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1021-remove-outermost-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
