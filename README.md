@@ -200,6 +200,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2126-destroying-asteroids) |
@@ -698,6 +699,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -865,6 +867,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1646-kth-missing-positive-number](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1646-kth-missing-positive-number) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2332-the-latest-time-to-catch-a-bus) |
