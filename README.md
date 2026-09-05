@@ -1210,4 +1210,12 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
