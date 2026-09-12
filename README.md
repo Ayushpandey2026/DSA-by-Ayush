@@ -1221,5 +1221,6 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
