@@ -1190,6 +1190,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0128-longest-consecutive-sequence) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1627-graph-connectivity-with-threshold) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2709-greatest-common-divisor-traversal) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/3666-minimum-operations-to-equalize-binary-string) |
