@@ -19,7 +19,6 @@ class Solution {
                 else if(sum<0) left++;
                 else right--;
             }
-           
          }
          return res;
     }
