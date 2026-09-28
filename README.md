@@ -178,6 +178,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1534-count-good-triplets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1534-count-good-triplets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -1152,6 +1153,7 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/0204-count-primes) |
+| [1534-count-good-triplets](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/1534-count-good-triplets) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ayushpandey2026/DSA-by-Ayush/tree/master/2259-remove-digit-from-number-to-maximize-result) |
